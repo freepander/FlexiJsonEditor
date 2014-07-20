@@ -33,3 +33,6 @@ USAGE
 
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/DavidDurman/flexijsoneditor/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
+
+-------------------------------------
+有 BUG !!! 胆小慎用。
